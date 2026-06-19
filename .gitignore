@@ -13,9 +13,6 @@ env/
 # Database
 *.db
 
-# Upload folders
-uploads/
-
 # Logs
 logs/
 
