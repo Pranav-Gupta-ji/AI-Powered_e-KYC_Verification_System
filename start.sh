@@ -12,4 +12,4 @@ echo "Starting Streamlit..."
 
 exec streamlit run frontend/Home.py \
     --server.address=0.0.0.0 \
-    --server.port=8501
+    --server.port=7860
